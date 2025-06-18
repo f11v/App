@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: todo-frontend:latest
+          image: faby495/todo-frontend:lates
           ports:
             - containerPort: 80
